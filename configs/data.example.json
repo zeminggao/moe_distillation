@@ -1,0 +1,6 @@
+{
+  "datasets": {
+    "dolly": {"prompt_cap":256,"response_cap":256,"student":"/absolute/models/student","teacher":"/absolute/models/dolly_teacher","train":"/absolute/dolly_prepared/train.json","valid":"/absolute/dolly_prepared/valid.json"},
+    "citb": {"prompt_cap":1024,"response_cap":128,"student":"/absolute/models/student","teacher":"/absolute/models/citb_teacher","raw_dir":"/absolute/citb_work/data"}
+  }
+}

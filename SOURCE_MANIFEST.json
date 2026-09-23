@@ -1,0 +1,170 @@
+[
+  {
+    "source": "remaining_experiments_20260918/dynamic_experts.py",
+    "destination": "gkd/dynamic_experts.py",
+    "source_sha256": "ae197f796d0dc4274e40c7c6658ea13064311ccbe00ff50c08b198f437b2e6be",
+    "modified": false
+  },
+  {
+    "source": "remaining_experiments_20260918/expert_methods.py",
+    "destination": "gkd/expert_methods.py",
+    "source_sha256": "761b1f877a8fb391fcd813787c09dfb557b7da5824de7a223c1d40ebba16753a",
+    "modified": false
+  },
+  {
+    "source": "remaining_experiments_20260918/progress_controller.py",
+    "destination": "gkd/progress_controller.py",
+    "source_sha256": "2364e41660360fd153a3c06691d1c4ef53eae0ac80763439a074bfad2e38b7c6",
+    "modified": false
+  },
+  {
+    "source": "remaining_experiments_20260918/sar_update.py",
+    "destination": "gkd/sar_update.py",
+    "source_sha256": "9b5d131ab3c62937f40fd61887b6d907c91e591fc787d209bafacf05f3dfa032",
+    "modified": false
+  },
+  {
+    "source": "remaining_experiments_20260918/history.py",
+    "destination": "gkd/history.py",
+    "source_sha256": "f54b5ac21af955b9332e1b115cbc5a1f1c824eb5f46e454f1b3bd82c3f6442d4",
+    "modified": false
+  },
+  {
+    "source": "remaining_experiments_20260918/evaluate_citb.py",
+    "destination": "gkd/evaluate_citb.py",
+    "source_sha256": "2c62df35215eccd5065576ff90d7e7379f3a874d2a9f8ed5513b6ac0d9a70126",
+    "modified": false
+  },
+  {
+    "source": "remaining_experiments_20260918/core.py",
+    "destination": "gkd/core.py",
+    "source_sha256": "9f4e34ae3b033fe47c4fe7c2bc58652a3de77a4c423f57fb40dd953439fac73c",
+    "modified": true
+  },
+  {
+    "source": "remaining_experiments_20260918/benchmark_gkd.py",
+    "destination": "gkd/benchmark_gkd.py",
+    "source_sha256": "5af51fe43a3985087c46368f80138ada928a9292ed1074d36de9cab540fcb34b",
+    "modified": true
+  },
+  {
+    "source": "remaining_experiments_20260918/train.py",
+    "destination": "gkd/train.py",
+    "source_sha256": "c8afa1043b7e6e42f747d7df079878a54a276e2686a5709495f1e0115586c602",
+    "modified": true
+  },
+  {
+    "source": "remaining_experiments_20260918/prepare_data.py",
+    "destination": "gkd/prepare_data.py",
+    "source_sha256": "578c2d68ecbd3ba66e6dcac2f1450e102338e6fd0f5663f1c9ef9d419ca954c4",
+    "modified": true
+  },
+  {
+    "source": "remaining_experiments_20260918/official_ni_collator.py",
+    "destination": "gkd/official_ni_collator.py",
+    "source_sha256": "d170d2230bba4a1f250ee5f3ecf16131f0e334855602115d95e4d16befdb7a29",
+    "modified": false
+  },
+  {
+    "source": "taid_remaining_queue_pro2_20260921/engine/common.py",
+    "destination": "taid/common.py",
+    "source_sha256": "c433f946c3da6e5f976a61a6a027e891bb98f4c0dbf8ea5dbaac2bdc6083270f",
+    "modified": false
+  },
+  {
+    "source": "taid_remaining_queue_pro2_20260921/engine/dynamic_experts.py",
+    "destination": "taid/dynamic_experts.py",
+    "source_sha256": "ae197f796d0dc4274e40c7c6658ea13064311ccbe00ff50c08b198f437b2e6be",
+    "modified": false
+  },
+  {
+    "source": "taid_remaining_queue_pro2_20260921/engine/expert_methods.py",
+    "destination": "taid/expert_methods.py",
+    "source_sha256": "9e3102d5c50af8cc265ec8a6c916ea893fde5037eda93881c8a890b1e02a096b",
+    "modified": false
+  },
+  {
+    "source": "taid_remaining_queue_pro2_20260921/engine/history_policy.py",
+    "destination": "taid/history_policy.py",
+    "source_sha256": "01ec11ff606306769fc0bdf1f419f5476c30b3cc907a12c90ec1ce959a90e6e8",
+    "modified": false
+  },
+  {
+    "source": "taid_remaining_queue_pro2_20260921/engine/progress_controller.py",
+    "destination": "taid/progress_controller.py",
+    "source_sha256": "2364e41660360fd153a3c06691d1c4ef53eae0ac80763439a074bfad2e38b7c6",
+    "modified": false
+  },
+  {
+    "source": "taid_remaining_queue_pro2_20260921/engine/sar_update.py",
+    "destination": "taid/sar_update.py",
+    "source_sha256": "c1c86077dd9ada43d104946173add115ae16480c21d585bf13f77ff0036ff2f0",
+    "modified": false
+  },
+  {
+    "source": "taid_remaining_queue_pro2_20260921/engine/taid.py",
+    "destination": "taid/taid.py",
+    "source_sha256": "2b568f58b77b50918195e6c651025899df6b655582bf7247bff28b6659bdfe02",
+    "modified": false
+  },
+  {
+    "source": "taid_remaining_queue_pro2_20260921/engine/test_methods.py",
+    "destination": "taid/test_methods.py",
+    "source_sha256": "7d42b04d744db13cd6ea23583b47f3ef092b5cb0c5b24ed27c2adc2c14ce5a46",
+    "modified": false
+  },
+  {
+    "source": "taid_remaining_queue_pro2_20260921/engine/test_queue_methods.py",
+    "destination": "taid/test_queue_methods.py",
+    "source_sha256": "21834c5a0f8b2254a529bdc4558d34645eb8e6a7b1a500ef454c83f7f653c1bf",
+    "modified": false
+  },
+  {
+    "source": "taid_remaining_queue_pro2_20260921/engine/test_taid.py",
+    "destination": "taid/test_taid.py",
+    "source_sha256": "e14ad7e8088e344c592c82c1704a828041a698bcbb4920d37b27ef630f525853",
+    "modified": false
+  },
+  {
+    "source": "taid_remaining_queue_pro2_20260921/engine/train.py",
+    "destination": "taid/train.py",
+    "source_sha256": "d98f24652d3d3e88bb46f6c5f6f2383dff16d5bcd9f7e9fc3e66b28c21205ff4",
+    "modified": true
+  },
+  {
+    "source": "teacher_full_sft_20260914/train_full_moe_dolly_fsdp.py",
+    "destination": "sft/dolly/train.py",
+    "source_sha256": "d40c0fe16895262012bae3203338068a6497df799e463f4842e10b71ea0a98f0",
+    "modified": false
+  },
+  {
+    "source": "instrdialog_official_sft_20260917/train.py",
+    "destination": "sft/citb/train.py",
+    "source_sha256": "5039e88b6ce23a7c0ec7f1f720f100b35c863067b6debcbbd47b07ba220d87ec",
+    "modified": true
+  },
+  {
+    "source": "instrdialog_official_sft_20260917/tokenize_data.py",
+    "destination": "sft/citb/tokenize_data.py",
+    "source_sha256": "35294178382082815b6f05f4a77f327db925d0ad97810da42cb3e8915130a957",
+    "modified": true
+  },
+  {
+    "source": "instrdialog_official_sft_20260917/official_ni_collator.py",
+    "destination": "sft/citb/official_ni_collator.py",
+    "source_sha256": "d170d2230bba4a1f250ee5f3ecf16131f0e334855602115d95e4d16befdb7a29",
+    "modified": false
+  },
+  {
+    "source": "instrdialog_official_sft_20260917/prepare_official.py",
+    "destination": "sft/citb/prepare_official.py",
+    "source_sha256": "fab68f8c2ba099602f99ef5182392358da88ab714cc47fac87ad2d39ba0db152",
+    "modified": true
+  },
+  {
+    "source": "teacher_sft_s15_bs48_20260916/prepare_data.py",
+    "destination": "data/prepare_dolly_distillation.py",
+    "source_sha256": "e16ccdd7e7f44a18445faf021a08cbb86e7d0e70d3fac34aef0865eb18cefcc7",
+    "modified": true
+  }
+]

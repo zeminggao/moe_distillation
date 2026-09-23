@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.env*
+!.env.example
+.venv/
+models/
+checkpoints/
+runs/
+work/
+*.safetensors
+*.pt
+*.bin
+*.arrow
+*.log
+*.jsonl

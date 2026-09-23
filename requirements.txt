@@ -1,0 +1,11 @@
+# Install a CUDA-compatible PyTorch separately; historical environment used torch 2.x.
+torch>=2.4,<2.7
+transformers==4.44.2
+numpy<2
+accelerate>=0.34,<1.0
+safetensors
+sentencepiece
+rouge-score==0.1.2
+pyarrow
+requests
+protobuf
